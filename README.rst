@@ -1,27 +1,22 @@
 Workshop series on Atmospheric Data Science
 ===========================================
 
-The Workshop series in Atmospheric Data Science is a collection of 2 hours workshops aimed (but not limited to) atmospheric sciences students interested in learning how to analyze big data sets using Python, an open source programing language.
+This repository contains the Jupyter notebooks used in a (very short) series of Workshops organized by the students in
+ the Atmospheric and Oceanic Sciences department at McGill University.
+It worth mentioning that this repository does not contain a full course on Atmospheric Data Science.
 
-Whether you have experience in programming or are looking to get started in python, this workshop series will quickly introduce you to python and the most relevant data analysis skills. The workshops will be interactive, where the participants can put in practice what is being shown in the lecture using interactive Python notebooks.
-The workshops will typically include hands-on exercises to apply the new concepts to atmospheric science problems.
-
-In addition to the hand-on exercises after each lecture,  more challenging and long-term projects will be available for the participants where they can combine the skills learned and get experience in working in teams in a collaboratory projects.
-
-The only requisites are a laptop with python and Jupyter installed (through Anaconda distribution recommended). One alternative to Jupyter notebook is Google Colab, a Jupyter-like notebook that runs on the cloud (only a web browser and a google account is needed).
-
-This are some of the topics that will be covered in this series:
+The workshop series were aimed (but not limited to) atmospheric sciences students interested in learning how to
+analyze big data sets using Python, an open source programing language.
+Since each workshop had a short duration (2 to 3 hours), only an introduction to each of the following topics was
+presented:
 
 * Getting comfortable with python
 * Numpy and Pandas
 * Storytelling through visualization
-* Working with big datasets: get, clean, manipulate, and store the data.
-* Advanced python programming: object oriented programming, exception handling,  modules, packages creation.
-* Collaborating on Projects with Git
-* SQL databases
-* No-SQL databases (Mongo DB)
-* Machine learning
-* Web scraping (extracting data from websites, e.g. twitter)
+* Introduction to Pandas
+* Introduction to Xarray
+* Example of a simple data science project
+* Parameterize convection using neural networks (partially completed)
 
 
 IMPORTANT
