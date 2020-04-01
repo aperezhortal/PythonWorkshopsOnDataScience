@@ -2,7 +2,7 @@ Workshop series on Atmospheric Data Science
 ===========================================
 
 This repository contains the Jupyter notebooks used in a (very short) series of Workshops organized by the students in
- the Atmospheric and Oceanic Sciences department at McGill University.
+the Atmospheric and Oceanic Sciences department at McGill University.
 It worth mentioning that this repository does not contain a full course on Atmospheric Data Science.
 
 The workshop series were aimed (but not limited to) atmospheric sciences students interested in learning how to
